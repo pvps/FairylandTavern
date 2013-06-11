@@ -1,0 +1,169 @@
+﻿已經開始建置於 2013/6/10 下午 06:22:20。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\Administrator\Desktop\眾多RO模擬端\rathena\vcproj-10\map-server_sql.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "map-server_sql\Debug\map-server_sql.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\zlib\include /I..\3rdparty\pcre\include /I..\3rdparty\msinttypes\include /I..\3rdparty\mt19937ar /I..\3rdparty\libconfig /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _WIN32 /D __WIN32 /D _DEBUG /D PCRE_SUPPORT /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D LIBCONFIG_STATIC /D YY_USE_CONST /D _MBCS /Gm- /RTC1 /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"map-server_sql\Debug\\" /Fd"map-server_sql\Debug\vc100.pdb" /Gd /TC /wd4018 /wd4100 /wd4800 /analyze- /errorReport:prompt ..\src\common\core.c ..\src\common\db.c ..\src\common\mapindex.c ..\src\common\socket.c ..\src\common\utils.c ..\src\map\atcommand.c ..\src\map\battle.c ..\src\map\battleground.c ..\src\map\buyingstore.c ..\src\map\cashshop.c ..\src\map\channel.c ..\src\map\chat.c ..\src\map\chrif.c ..\src\map\clif.c ..\src\map\duel.c ..\src\map\elemental.c ..\src\map\guild.c ..\src\map\homunculus.c ..\src\map\instance.c ..\src\map\intif.c ..\src\map\itemdb.c ..\src\map\log.c ..\src\map\mail.c ..\src\map\map.c ..\src\map\mapreg_sql.c ..\src\map\mercenary.c ..\src\map\mob.c ..\src\map\npc.c ..\src\map\npc_chat.c ..\src\map\party.c ..\src\map\path.c ..\src\map\pc.c ..\src\map\pc_groups.c ..\src\map\pet.c ..\src\map\quest.c ..\src\map\script.c ..\src\map\searchstore.c ..\src\map\skill.c ..\src\map\status.c ..\src\map\storage.c ..\src\map\trade.c ..\src\map\unit.c ..\src\map\vending.c
+         core.c
+         db.c
+         mapindex.c
+         socket.c
+         utils.c
+         atcommand.c
+         battle.c
+         battleground.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         buyingstore.c
+         cashshop.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         channel.c
+         chat.c
+         chrif.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         clif.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         duel.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         elemental.c
+         guild.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         homunculus.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         instance.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         intif.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         itemdb.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         log.c
+         mail.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         map.c
+         mapreg_sql.c
+         mercenary.c
+         mob.c
+         npc.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         npc_chat.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         party.c
+         path.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         pc.c
+         pc_groups.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         pet.c
+         quest.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         script.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         searchstore.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         skill.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         status.c
+         storage.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         trade.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         unit.c
+         vending.c
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>c:\users\administrator\desktop\眾多ro模擬端\rathena\src\common\nullpo.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+       ManifestResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\map-server_sql.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\3rdparty\mysql\lib /LIBPATH:..\3rdparty\zlib\lib /LIBPATH:..\3rdparty\pcre\lib libcmtd.lib oldnames.lib ws2_32.lib libmysql.lib zdll.lib pcre.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB /MANIFEST /ManifestFile:"map-server_sql\Debug\map-server_sql.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"..\map-server_sql.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\map-server_sql.lib" /MACHINE:X86 "map-server_sql\Debug\map-server_sql.exe.embed.manifest.res"
+         "map-server_sql\Debug\grammar.obj"
+         "map-server_sql\Debug\libconfig.obj"
+         "map-server_sql\Debug\scanctx.obj"
+         "map-server_sql\Debug\scanner.obj"
+         "map-server_sql\Debug\strbuf.obj"
+         "map-server_sql\Debug\mt19937ar.obj"
+         "map-server_sql\Debug\conf.obj"
+         "map-server_sql\Debug\core.obj"
+         "map-server_sql\Debug\db.obj"
+         "map-server_sql\Debug\des.obj"
+         "map-server_sql\Debug\ers.obj"
+         "map-server_sql\Debug\grfio.obj"
+         "map-server_sql\Debug\malloc.obj"
+         "map-server_sql\Debug\mapindex.obj"
+         "map-server_sql\Debug\md5calc.obj"
+         "map-server_sql\Debug\mempool.obj"
+         "map-server_sql\Debug\mutex.obj"
+         "map-server_sql\Debug\nullpo.obj"
+         "map-server_sql\Debug\raconf.obj"
+         "map-server_sql\Debug\random.obj"
+         "map-server_sql\Debug\showmsg.obj"
+         "map-server_sql\Debug\socket.obj"
+         "map-server_sql\Debug\sql.obj"
+         "map-server_sql\Debug\strlib.obj"
+         "map-server_sql\Debug\thread.obj"
+         "map-server_sql\Debug\timer.obj"
+         "map-server_sql\Debug\utils.obj"
+         "map-server_sql\Debug\msg_conf.obj"
+         "map-server_sql\Debug\cli.obj"
+         "map-server_sql\Debug\atcommand.obj"
+         "map-server_sql\Debug\battle.obj"
+         "map-server_sql\Debug\battleground.obj"
+         "map-server_sql\Debug\buyingstore.obj"
+         "map-server_sql\Debug\cashshop.obj"
+         "map-server_sql\Debug\channel.obj"
+         "map-server_sql\Debug\chat.obj"
+         "map-server_sql\Debug\chrif.obj"
+         "map-server_sql\Debug\clif.obj"
+         "map-server_sql\Debug\date.obj"
+         "map-server_sql\Debug\duel.obj"
+         "map-server_sql\Debug\elemental.obj"
+         "map-server_sql\Debug\guild.obj"
+         "map-server_sql\Debug\intif.obj"
+         "map-server_sql\Debug\itemdb.obj"
+         "map-server_sql\Debug\log.obj"
+         "map-server_sql\Debug\mail.obj"
+         "map-server_sql\Debug\map.obj"
+         "map-server_sql\Debug\mapreg_sql.obj"
+         "map-server_sql\Debug\homunculus.obj"
+         "map-server_sql\Debug\instance.obj"
+         "map-server_sql\Debug\mercenary.obj"
+         "map-server_sql\Debug\mob.obj"
+         "map-server_sql\Debug\npc.obj"
+         "map-server_sql\Debug\npc_chat.obj"
+         "map-server_sql\Debug\party.obj"
+         "map-server_sql\Debug\path.obj"
+         "map-server_sql\Debug\pc.obj"
+         "map-server_sql\Debug\pc_groups.obj"
+         "map-server_sql\Debug\pet.obj"
+         "map-server_sql\Debug\quest.obj"
+         "map-server_sql\Debug\script.obj"
+         "map-server_sql\Debug\searchstore.obj"
+         "map-server_sql\Debug\skill.obj"
+         "map-server_sql\Debug\status.obj"
+         "map-server_sql\Debug\storage.obj"
+         "map-server_sql\Debug\trade.obj"
+         "map-server_sql\Debug\unit.obj"
+         "map-server_sql\Debug\vending.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"map-server_sql\Debug\map-server_sql.exe.embed.manifest" /manifest "map-server_sql\Debug\map-server_sql.exe.intermediate.manifest"
+         所有輸出都是最新的。
+       LinkEmbedManifest:
+         所有輸出都是最新的。
+         map-server_sql.vcxproj -> C:\Users\Administrator\Desktop\眾多RO模擬端\rathena\vcproj-10\..\map-server_sql.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "map-server_sql\Debug\map-server_sql.unsuccessfulbuild"。
+         正在變更時間戳記 "map-server_sql\Debug\map-server_sql.lastbuildstate"。
+     1>專案 "C:\Users\Administrator\Desktop\眾多RO模擬端\rathena\vcproj-10\map-server_sql.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:12.72
